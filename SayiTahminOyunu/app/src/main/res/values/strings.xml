@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tahmin Et</string>
+
+    <string name="btn_bir">1</string>
+    <string name="btn_iki">2</string>
+    <string name="btn_uc">3</string>
+    <string name="btn_dort">4</string>
+    <string name="btn_bes">5</string>
+    <string name="btn_alti">6</string>
+    <string name="btn_yedi">7</string>
+    <string name="btn_sekiz">8</string>
+    <string name="btn_dokuz">9</string>
+    <string name="btn_sifir">0</string>
+    <string name="btn_gonder">Gönder</string>
+    <string name="btn_sil">Sil</string>
+
+    <string name="btn_basla"> Oyuna Başla</string>
+    <string name="tahmin_ilk">Lütfen Tahmin Yapınız</string>
+
+    <string name="info">Bu uygulamada ki amaç 100-999 arasında rastgele üretilen bir sayıyı en kısa sürede tahmin etmek.
+    Önce Menüden süre seçiyoruz, daha sonra oyuna başla butonuna tıklayarak oyuna başlıyoruz.Gelen yeni sayfada alt kısımda bulunan
+        klavyeden 3 haneli bir sayı giriyoruz. Tahminlerde bulunuyoruz.En kısa sürede doğru tahmin eden en yüksek skora sahip olur.
+        Bedirhan Sağlam tarafından geliştirildi.
+    </string>
+
+    <string name="tw_skor">En Yüksek Skor:</string>
+    <string name="oyun_bitti">Süre Doldu! Kaybettin, Sayı:</string>
+
+
+</resources>
